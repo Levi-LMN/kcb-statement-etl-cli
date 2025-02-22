@@ -26,28 +26,19 @@ A tool designed to Extract, Transform, and Load (ETL) transaction data from KCB 
 
 1.  **Clone the repository**:
     
-    bash
-    
-    CopyEdit
     
     `git clone https://github.com/Levi-LMN/kcb-statement-etl-cli.git
     cd kcb-statement-etl-cli` 
     
 2.  **Set up a virtual environment** (optional but recommended):
-    
-    bash
-    
-    CopyEdit
+ 
     
     ``python3 -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate` `` 
     
 3.  **Install the required packages**:
     
-    bash
-    
-    CopyEdit
-    
+   
     `pip install -r requirements.txt` 
     
     Ensure that you have the Java Runtime Environment (JRE) installed, as `tabula-py` depends on it.
@@ -57,9 +48,7 @@ A tool designed to Extract, Transform, and Load (ETL) transaction data from KCB 
 
 1.  **Start the Flask application**:
     
-    bash
-    
-    CopyEdit
+  
     
     `python app.py` 
     
