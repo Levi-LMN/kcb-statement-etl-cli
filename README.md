@@ -2,7 +2,7 @@
 
 A tool designed to Extract, Transform, and Load (ETL) transaction data from KCB Bank statements in PDF format. It automates the process of converting raw bank statements into structured Excel reports, providing daily totals, transaction summaries, and financial insights.
 
-## Features
+## Key Features
 
 -   **PDF Extraction**: Parses KCB Bank PDF statements to extract transaction data.
 -   **Data Transformation**: Cleans and structures the extracted data for analysis.
